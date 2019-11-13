@@ -1,0 +1,8 @@
+{
+    "name": "web-app-back-end-express-server",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "^4.16.4",
+        "node-fetch": "^2.6.0"
+    }
+}

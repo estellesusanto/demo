@@ -1,7 +1,0 @@
-{
-    "name": "web-app-front-end-express-server-configured",
-    "version": "1.0.0",
-    "dependencies": {
-        "express": "^4.16.4"
-    }
-}

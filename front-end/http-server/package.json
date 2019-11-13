@@ -1,7 +1,0 @@
-{
-    "name": "web-app-front-end-http-server",
-    "version": "1.0.0",
-    "dependencies": {
-        "http-server": "^0.11.1"
-    }
-}
